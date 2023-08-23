@@ -1,0 +1,356 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc88fdc47ec5414499b01f01397c5b3e, type: 3}
+  m_Name: DataAirEnemy
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 6541156256940924985, guid: 04239f0cafbdec3428b65db8f1a030c5, type: 3}
+    - {fileID: 2200234921522783535, guid: cddec497d5356c842ae347cc00428f69, type: 3}
+    - {fileID: 893974058152378200, guid: a3fa775444355a04f9ce73314451a093, type: 3}
+    - {fileID: 8928434551683151780, guid: 79bac136bbf3eb4489d0ea613cec0b62, type: 3}
+    - {fileID: 7891727091494139588, guid: 36d4aadd2a3c06941815662400afa6d0, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataAirEnemies
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataAirEnemy, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 15
+    - Name: 
+      Entry: 7
+      Data: 1|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 0
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 100
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 1
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 120
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 2
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 180
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 3
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 200
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 4
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 220
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 5
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 240
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 6
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 300
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 7
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 320
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 8
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 340
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 9
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 360
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 10
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 420
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 11
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 440
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 12
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 5000
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 13
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 6000
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|DataAirEnemy, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 14
+    - Name: damage
+      Entry: 4
+      Data: 5
+    - Name: maxHealth
+      Entry: 4
+      Data: 7000
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: dragItem
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

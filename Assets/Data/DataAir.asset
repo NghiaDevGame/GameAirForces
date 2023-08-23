@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c997124e468e3141ac06915f9cb8a3a, type: 3}
+  m_Name: DataAir
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 6844894278330589010, guid: 596b0a6f703b0f749bbcb6f1fa62ddf8, type: 3}
+    - {fileID: 3286961453678261098, guid: e8f4923bcbde5b54496715f40ad578ae, type: 3}
+    - {fileID: 2096814124808253281, guid: e8e44cb754decde45b354599e4b271b7, type: 3}
+    - {fileID: 3436014256741674118, guid: 201965ab0a15f03469a16671eab30bbf, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataAir
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[DataAir, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 1|DataAir, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 0
+    - Name: damage
+      Entry: 4
+      Data: 10
+    - Name: maxHealth
+      Entry: 4
+      Data: 100
+    - Name: bullet
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|DataAir, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 1
+    - Name: damage
+      Entry: 4
+      Data: 12
+    - Name: maxHealth
+      Entry: 4
+      Data: 150
+    - Name: bullet
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|DataAir, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 2
+    - Name: damage
+      Entry: 4
+      Data: 14
+    - Name: maxHealth
+      Entry: 4
+      Data: 200
+    - Name: bullet
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|DataAir, Assembly-CSharp
+    - Name: id
+      Entry: 3
+      Data: 3
+    - Name: damage
+      Entry: 4
+      Data: 16
+    - Name: maxHealth
+      Entry: 4
+      Data: 250
+    - Name: bullet
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
